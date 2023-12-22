@@ -1,0 +1,10 @@
+*.icon-gray{
+    color: gray;
+}
+*.icon-green{
+    color:forestgreen;
+}
+*.icon-green:hover{
+    color:forestgreen;
+    text-decoration: none;
+}
